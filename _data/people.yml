@@ -1,19 +1,17 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Mainack Mondal
+    profile_pic: /_images/pp/MM.png
+    webpage: https://cse.iitkgp.ac.in/~mainack/
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: Nimish Mishra
+    profile_pic: /_images/pp/NM.jpg
+    webpage: https://www.linkedin.com/in/nimish-mishra-2ab313106/
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+  - name: Sourabh Soumyakanta Das
+    profile_pic: /_images/pp/SSD.jpeg
+    webpage: https://www.linkedin.com/in/sourabh-soumyakanta-das-027016232
 
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: Shiladitya De
+    profile_pic: /_images/pp/SD.jpg
+    webpage: https://www.linkedin.com/in/shiladitya-de-9aa4b921a/
