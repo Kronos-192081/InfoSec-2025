@@ -3,8 +3,8 @@ course_name: CS60112 - Information and System Security
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
 course_semester: "Spring 2025"
 
-baseurl: "/infosec-2025" # the subpath of your site, e.g. /blog/
-url: "https://kronos-192081.github.io/" # the base hostname & protocol for your site
+baseurl: "/InfoSec-2025" # the subpath of your site, e.g. /blog/
+url: "https://Kronos-192081.github.io/" # the base hostname & protocol for your site
 
 schoolname: "IIT Kharagpur"
 schoolurl: "https://cse.iitkgp.ac.in" 
